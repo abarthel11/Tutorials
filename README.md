@@ -1,0 +1,1 @@
+sf project generate --name <NAME> --template empty
